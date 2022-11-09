@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BMICalc.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Blue" Padding="24" CornerRadius="0">
+            <Label Text="Calculate Your BMI" HorizontalTextAlignment="Center" FontSize="38" TextColor="White" />
+        </Frame>
+        <Label Text="" x:Name="Lbl_BMI" FontSize="18" Padding="15,0,15,0"/>
+  
+        <Editor x:Name="Inp_weight" 
+            Placeholder="Weight in pounds" 
+                Margin="60,0,60,0"
+/>
+        <Editor x:Name="Inp_height" 
+            Placeholder="Height in inches" 
+           
+            Margin="60,0,60,0"/>
+
+        <Button Text="Calculate" x:Name="Btn_BMI" Clicked="Btn_Clicked" Margin="60,0,60,0" />
+    </StackLayout>
+
+</ContentPage>

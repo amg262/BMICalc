@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4i/0gknMv3GF/ADz4EkylvQ5tQ1lqdR9iQ+oyTPo1CpFfC7HMRu+HCceYfRnZmPQDk2mAfqVhEn4olkOR4UJ6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andy\\source\\repos\\BMICalc\\BMICalc\\BMICalc.iOS\\BMICalc.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
